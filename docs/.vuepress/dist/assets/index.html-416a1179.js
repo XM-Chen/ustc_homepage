@@ -1,0 +1,1 @@
+const l=JSON.parse('{"key":"v-1f070334","path":"/compulational_physics/","title":"计算物理","lang":"zh-CN","frontmatter":{"title":"计算物理"},"headers":[{"level":2,"title":"dsfd","slug":"dsfd","link":"#dsfd","children":[{"level":3,"title":"sdfdws","slug":"sdfdws","link":"#sdfdws","children":[]}]}],"git":{},"filePathRelative":"compulational_physics/README.md"}');export{l as data};
