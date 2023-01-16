@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"首页","lang":"zh-CN","frontmatter":{"home":true,"title":"首页","actions":[{"text":"计算物理","link":"/compulational_physics/README.md"}]},"headers":[],"git":{"updatedTime":1673860296000,"contributors":[{"name":"XM-Chen","email":"chen_xm_ever@163.com","commits":1}]},"filePathRelative":"README.md"}');export{e as data};

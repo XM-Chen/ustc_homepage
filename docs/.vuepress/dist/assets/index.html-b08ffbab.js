@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"首页","lang":"zh-CN","frontmatter":{"home":true,"title":"首页","actions":[{"text":"计算物理","link":"/compulational_physics/README.md"}]},"headers":[],"git":{},"filePathRelative":"README.md"}');export{t as data};
