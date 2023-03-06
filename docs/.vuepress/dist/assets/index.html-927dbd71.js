@@ -1,1 +1,0 @@
-import{_ as t,M as o,p as n,q as a,R as r,N as c,V as s,t as _}from"./framework-96b046e1.js";const l={};function d(i,u){const e=o("RouterLink");return n(),a("div",null,[r("p",null,[c(e,{to:"/other/"},{default:s(()=>[_("其他")]),_:1})])])}const m=t(l,[["render",d],["__file","index.html.vue"]]);export{m as default};
